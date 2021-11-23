@@ -1,5 +1,5 @@
 # Instacart-basket-analysis
- An initial data and exploratory analysis using some of Instacart's data in order to derive insights and suggest strategies for better segmentation.
+ An initial data and exploratory analysis using some of Instacart's data in order to derive insights and suggest strategies for better segmentation (Project for Career Foundry)
  
 "The Instacart stakeholders are most interested in the variety of customers in their database
 along with their purchasing behaviors. They assume they can't target everyone using the same
