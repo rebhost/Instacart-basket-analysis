@@ -26,3 +26,13 @@ customers in their system and how their ordering behaviors differ.
 Data source: "The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on
 October 12th, 2021."
 
+Summary of results:
+1. The busiest days of the week are Saturdays and Sundays, with most orders being placed in the middle of the day (average time being 1:00 pm)
+2. Higher priced items are ordered more in the middle of the night, and ordered more on Sundays and Mondays.
+3. The most sold products are in the departments of produce, dairy and eggs, and snacks.
+4. Most customers of Instacart are loyal customers, compared to regular and new customers.
+5. Most customers are married with with children, least customers live at home with parents and siblings.
+6. The majority of customers live in the south, while least customers are located in the Northeast
+7. The majority of customers are in the lowest income range (50k-100k), and are in the ages of 21-80.
+
+Full presentation can be found in the Excel file "Instacart Final Report RO".
